@@ -47,5 +47,5 @@ options:
 
 ## TODOs:
 
--[ ] Add pipeline to upload soundcloud playlist with a cadence
--[ ] Use transfer learning to train own model on Eminem lyrics dataset
+- [ ] Add pipeline to upload soundcloud playlist with a cadence
+- [ ] Use transfer learning to train own model on Eminem lyrics dataset
